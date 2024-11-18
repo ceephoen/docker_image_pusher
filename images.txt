@@ -1,4 +1,4 @@
-frooodle/s-pdf
-python:3.10.0-alpine
-gitlab/gitlab-ce:17.3.7-ce.0
-jenkins/jenkins:jdk17
+nginx:stable-alpine3.20-perl
+mysql:8.0.40-debian
+redis
+mongodb/mongodb-community-server
