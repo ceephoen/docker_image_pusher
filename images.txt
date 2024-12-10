@@ -1,4 +1,1 @@
-nginx:stable-alpine3.20-perl
-mysql:8.0.40-debian
-redis
-mongodb/mongodb-community-server
+gitea/gitea:1.21.11
