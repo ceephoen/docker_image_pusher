@@ -1,1 +1,1 @@
-golang:bookworm
+bitnamicharts/harbor
