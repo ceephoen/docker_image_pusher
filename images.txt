@@ -1,1 +1,1 @@
-bitnamicharts/harbor
+nginx
