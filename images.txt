@@ -1,1 +1,6 @@
-nginx
+python:3.10-alpine
+debian:bookworm-slim
+minio/minio
+mysql:8.0.41
+redis:7.4.2-alpine
+nginx:1.27-alpine
