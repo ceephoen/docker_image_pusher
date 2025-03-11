@@ -1,1 +1,2 @@
-node:22.14.0-alpine
+minio/minio
+mysql:8.0.41
