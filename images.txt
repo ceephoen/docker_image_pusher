@@ -1,1 +1,1 @@
-confluence:8.8.0-ubuntu-jdk17
+atlassian/confluence:8.8.0-ubuntu-jdk17
