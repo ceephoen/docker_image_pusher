@@ -1,2 +1,2 @@
-minio/minio
-mysql:8.0.41
+atlassian/confluence:9.1.0-ubuntu-jdk17
+postgres:16.8-bullseye
