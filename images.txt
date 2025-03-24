@@ -1,10 +1,1 @@
-requarks/wiki
-consul
-nextcloud
-elasticsearch
-caddy
-kong
-neo4j
-nats
-nats-streaming
-rust
+requarks/wiki:2.5
