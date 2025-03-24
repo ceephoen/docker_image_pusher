@@ -1,1 +1,1 @@
-atlassian/confluence:8.5.19-ubuntu-jdk11
+atlassian/confluence:9.1.0-ubuntu-jdk17
