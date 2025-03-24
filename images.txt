@@ -1,14 +1,4 @@
-mongodb/atlas:v1.41.1
-alpine:3.21.3
-ubuntu:22.04
-mongo:6.0.21-jammy
-rabbitmq:4.0.7-management
-traefik
-mariadb:10.11.11-jammy
-ollama/ollama
-langchain/langchain
-registry
-sonarqube
+requarks/wiki
 consul
 nextcloud
 elasticsearch
