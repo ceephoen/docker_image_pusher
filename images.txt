@@ -1,1 +1,1 @@
-atlassian/confluence:7.16.5-ubuntu-jdk11
+mysql:5.7-debian
